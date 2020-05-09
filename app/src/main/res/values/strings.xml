@@ -3,4 +3,6 @@
     <string name="chooseStartDate">Дата - время старта задачи:</string>
     <string name="chooseEndDate">Дата - время окончания задачи:</string>
     <string name="btnOK">OK</string>
+    <string name="startDate">Дата - время старта задачи:</string>
+    <string name="finishDate">Дата - время окончания задачи:</string>
 </resources>
